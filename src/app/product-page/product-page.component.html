@@ -1,0 +1,27 @@
+  <mat-card class="product-page-card">
+    <mat-card-title
+      class="product-page-card-title"
+      fxLayout="row"
+      fxAlign="center"
+    >
+      {{ product?.title }}</mat-card-title
+    >
+    <img mat-card-image [src]="product?.image" />
+    <mat-card-content fxLayout="column" fxLayoutAlign="space-around center">
+      <mat-form-field appearance="fill">
+      </mat-form-field>
+    </mat-card-content>
+    <mat-card-actions fxLayoutAlign="center">
+      <button
+        mat-raised-button
+        color="primary"
+        class="snipcart-add-item"
+        [attr.data-item-id]="product?.id"
+        [attr.data-item-price]="product?.price"
+        [attr.data-item-image]="product?.image"
+        [attr.data-item-name]="product?.title"
+      >
+        Add to cart
+      </button>
+    </mat-card-actions> 
+  </mat-card>
