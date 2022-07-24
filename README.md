@@ -8,5 +8,5 @@ In this project, I'm using fullInMemory database, by using an external api and s
 In the main application page (http://localhost:4200/) You will find 10 available products for you to buy.
 
 ## How to use?
-First, do npm install inside the solution, after that do ng serve, the application will start right away! you can then select anything to buy.
+First, do npm install --force inside the solution, after that do ng serve, the application will start right away! you can then select anything to buy.
 Just click on any one of them, and simply add to cart with the quantity you want, After that you will see you can go to checkout. Simply checkout with any fake information!
