@@ -10,3 +10,21 @@ In the main application page (http://localhost:4200/) You will find 10 available
 ## How to use?
 First, do npm install --force inside the solution, after that do ng serve, the application will start right away! you can then select anything to buy.
 Just click on any one of them, and simply add to cart with the quantity you want, After that you will see you can go to checkout. Simply checkout with any fake information!
+
+## Screenshots
+### Somescreenshots representing the project
+----------------
+![](https://i.imgur.com/HRpm6hf.png)
+----------------
+![](https://i.imgur.com/dS7Hpci.png)
+----------------
+![](https://i.imgur.com/6rVgyGc.png)
+----------------
+![](https://i.imgur.com/f81jdhI.png)
+----------------
+![](https://i.imgur.com/J64amPo.png)
+----------------
+![](https://i.imgur.com/nLTuNyG.png)
+----------------
+![](https://i.imgur.com/bk5taWu.png)
+----------------
