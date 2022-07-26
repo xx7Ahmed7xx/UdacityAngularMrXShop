@@ -7,7 +7,7 @@ import data from './core/data.json' ;
   providedIn: 'root'
 })
 export class ProductService {
-  public productList:{id:number, title:string, image:string, price:number}[] = data;
+  public productList:{id:number, title:string, image:string, price:number, url:string}[] = data;
   constructor() { }
   getProducts(): Product[] {
     /*let x: Array<Product> = [];

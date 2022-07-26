@@ -19,9 +19,7 @@ export class ProductPageComponent implements OnInit {
 
   getProduct(): void {
     const id = Number(this.route.snapshot.paramMap.get('id'));
-    this.product = this.productService.getProduct(id) // TODO refactor to getter
-    console.log(id)
-    console.log(this.productService.getProduct(id))
+    this.product = this.productService.getProduct(id-1) // TODO refactor to getter
   }
   ngOnInit() {
     this.getProduct();
