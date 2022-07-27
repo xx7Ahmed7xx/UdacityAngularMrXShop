@@ -18,7 +18,7 @@ Just click on any one of them, and simply add to cart with the quantity you want
 ----------------
 ![](https://i.imgur.com/dS7Hpci.png)
 ----------------
-![](https://i.imgur.com/6rVgyGc.png)
+![](https://i.imgur.com/fy2QfS8.png)
 ----------------
 ![](https://i.imgur.com/f81jdhI.png)
 ----------------
